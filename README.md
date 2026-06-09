@@ -50,3 +50,8 @@ Sistema que realiza o cadastro de aluguéis de quartos utilizando vetor de objet
 Programa que realiza o cadastro de pessoas utilizando ArrayList e permite buscar uma pessoa pelo nome.
 
 ### 🔟 Produtos (Herança e Polimorfismo)  
+Sistema que cadastra diferentes tipos de produtos (comum, usado e importado) utilizando herança e polimorfismo, exibindo etiquetas de preço específicas para cada tipo.
+
+---
+
+🚀 Projeto desenvolvido para fins de estudo.
