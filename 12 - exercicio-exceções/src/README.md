@@ -9,7 +9,6 @@ O sistema utiliza exceções personalizadas para tratar situações como saldo i
 - Tratamento de exceções
 - Exceções personalizadas
 - Uso de throw
-- Uso de throws
 - Bloco try/catch
 - Encapsulamento
 - Regras de negócio
