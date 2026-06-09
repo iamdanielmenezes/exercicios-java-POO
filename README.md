@@ -2,6 +2,8 @@
 
 Repositório contendo exercícios resolvidos durante meus estudos de Java e Programação Orientada a Objetos (POO).
 
+Os exercícios foram desenvolvidos seguindo uma progressão gradual de aprendizado, partindo dos fundamentos da linguagem até conceitos mais avançados de orientação a objetos, como herança, polimorfismo, abstração e tratamento de exceções.
+
 Os exercícios foram desenvolvidos com foco em:
 
 - Conceitos básicos de POO
@@ -17,7 +19,9 @@ Os exercícios foram desenvolvidos com foco em:
 - Busca e exibição de dados em coleções
 - Herança e polimorfismo
 - Sobrescrita de métodos (override)
-
+- Classes abstratas e métodos abstratos
+- Tratamento de exceções personalizadas
+  
 ---
 
 ## 📚 Exercícios Disponíveis
