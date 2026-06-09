@@ -56,6 +56,12 @@ Programa que realiza o cadastro de pessoas utilizando ArrayList e permite buscar
 ### 🔟 Produtos (Herança e Polimorfismo)  
 Sistema que cadastra diferentes tipos de produtos (comum, usado e importado) utilizando herança e polimorfismo, exibindo etiquetas de preço específicas para cada tipo.
 
+### 1️⃣1️⃣ Imposto de Pessoas (Abstração)
+Sistema que calcula impostos para pessoas físicas e jurídicas utilizando classes abstratas, herança e polimorfismo.
+
+### 1️⃣2️⃣ Tratamento de Exceções
+Sistema bancário que realiza saques aplicando regras de negócio através de exceções personalizadas e tratamento de erros.
+
 ---
 
 🚀 Projeto desenvolvido para fins de estudo.
