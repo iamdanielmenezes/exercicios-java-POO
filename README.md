@@ -2,7 +2,7 @@
 
 Repositório contendo exercícios resolvidos durante meus estudos de Java e Programação Orientada a Objetos (POO).
 
-Os exercícios foram desenvolvidos seguindo uma progressão gradual de aprendizado, consolidando fundamentos de Java e Programação Orientada a Objetos por meio da implementação de regras de negócio, manipulação de coleções e boas práticas de desenvolvimento.
+Os exercícios foram desenvolvidos seguindo uma progressão gradual de aprendizado, consolidando fundamentos de Java, Programação Orientada a Objetos, Collections Framework e Programação Funcional por meio da implementação de regras de negócio e boas práticas de desenvolvimento.
 
 Os exercícios foram desenvolvidos com foco em:
 
@@ -12,6 +12,7 @@ Os exercícios foram desenvolvidos com foco em:
 - Manipulação de coleções e estruturas de dados
 - Tratamento de exceções e validação de dados
 - Boas práticas de desenvolvimento
+- Programação funcional com Streams
 
 ---
 
@@ -69,6 +70,14 @@ Sistema bancário que realiza saques aplicando regras de negócio através de ex
 
 Sistema que registra os alunos dos cursos A, B e C e calcula a quantidade total de alunos do instrutor, evitando duplicidades através da coleção `HashSet`.
 
+### 1️⃣4️⃣ Apuração de Votos com Map
+
+Sistema que realiza a leitura de um arquivo contendo votos de candidatos e utiliza a interface `Map` para calcular a quantidade total de votos de cada candidato.
+
+### 1️⃣5️⃣ Processamento de Funcionários com Streams
+
+Sistema que realiza a leitura de um arquivo de funcionários e utiliza a API de Streams para filtrar, ordenar e processar os dados de forma funcional.
+
 ---
 
-📌 Projeto desenvolvido para fins de estudo.
+📌 Repositório desenvolvido para fins de estudo e prática de Java e Programação Orientada a Objetos.
