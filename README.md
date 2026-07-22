@@ -2,7 +2,7 @@
 
 Repositório contendo exercícios resolvidos durante meus estudos de Java e Programação Orientada a Objetos (POO).
 
-Os exercícios foram desenvolvidos seguindo uma progressão gradual de aprendizado, consolidando fundamentos de Java, Programação Orientada a Objetos, Collections Framework e Programação Funcional por meio da implementação de regras de negócio e boas práticas de desenvolvimento.
+Os exercícios foram desenvolvidos seguindo uma progressão gradual de aprendizado, consolidando fundamentos de Java, Programação Orientada a Objetos, Collections Framework, JDBC e Programação Funcional por meio da implementação de regras de negócio e boas práticas de desenvolvimento.
 
 Os exercícios foram desenvolvidos com foco em:
 
@@ -10,6 +10,7 @@ Os exercícios foram desenvolvidos com foco em:
 - Estruturação e organização de projetos em Java
 - Modelagem de entidades e regras de negócio
 - Manipulação de coleções e estruturas de dados
+- Persistência de dados com JDBC
 - Tratamento de exceções e validação de dados
 - Boas práticas de desenvolvimento
 - Programação funcional com Streams
@@ -44,7 +45,7 @@ Programa que realiza o cadastro de uma conta bancária permitindo depósito e sa
 
 ### 7️⃣ Alturas
 
-Programa que cadastra várias pessoas utilizando vetores, calcula a altura média e exibe a porcentagem e nomes das pessoas com menos de 16 anos.
+Programa que cadastra várias pessoas utilizando vetores, calcula a altura média e exibe a porcentagem e os nomes das pessoas com menos de 16 anos.
 
 ### 8️⃣ Pensionato
 
@@ -52,7 +53,7 @@ Sistema que realiza o cadastro de aluguéis de quartos utilizando vetor de objet
 
 ### 9️⃣ Cadastro de Pessoas
 
-Programa que realiza o cadastro de pessoas utilizando ArrayList e permite buscar uma pessoa pelo nome.
+Programa que realiza o cadastro de pessoas utilizando `ArrayList` e permite buscar uma pessoa pelo nome.
 
 ### 🔟 Produtos (Herança e Polimorfismo)
 
@@ -78,6 +79,10 @@ Sistema que realiza a leitura de um arquivo contendo votos de candidatos e utili
 
 Sistema que realiza a leitura de um arquivo de funcionários e utiliza a API de Streams para filtrar, ordenar e processar os dados de forma funcional.
 
+### 1️⃣6️⃣ DAO com JDBC
+
+Projeto que implementa uma camada de acesso a banco de dados utilizando JDBC e o padrão DAO, realizando operações de CRUD para as entidades **Seller** e **Department** através de uma arquitetura organizada em camadas.
+
 ---
 
-📌 Repositório desenvolvido para fins de estudo e prática de Java e Programação Orientada a Objetos.
+📌 Repositório desenvolvido para fins de estudo e prática de Java, Programação Orientada a Objetos e desenvolvimento backend.
